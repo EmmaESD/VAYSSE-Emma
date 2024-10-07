@@ -1,6 +1,4 @@
 - Hi, i'm VAYSSE Emma, i'm a french student web developer 👋
-- I like front end coding and i'm interested by back end.
-- On my GitHub profile, I have school projects and personal projects in different technologies
 
 ## My stats⚡️
 
